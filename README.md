@@ -3,7 +3,7 @@
 Welcome to my repository! This is a personal project documenting my journey of learning Python through the **Coursera course**: *Google IT Automation with Python*. 🎓  
 
 ## 📖 Overview
-This repository contains all my files, scripts, and notes as I progress through the course. Whether you're looking to see how I approached the coursework, explore practical examples, or follow along in your own learning journey, this repository might help! 😊
+This repository contains all of my Important files, scripts, and notes as I progress through the course. Whether you're looking to see how I approached the coursework, explore practical examples, or follow along in your own learning journey, this repository might help! 😊
 
 ---
 
